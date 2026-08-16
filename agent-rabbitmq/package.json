@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "@langchain/core": "^1.2.5",
+    "amqplib": "^2.0.1",
     "deepagents": "^1.12.2",
     "dotenv": "^17.4.2",
-    "langchain": "^1.5.5"
+    "langchain": "^1.5.5",
+    "openai": "^7.4.0"
   }
 }
